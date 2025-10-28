@@ -7,6 +7,11 @@
     "wayak-resource-h5.wenext.media": "wyak-resource-cf.wenext-resource.chat",
     "d40f5dilfw079.cloudfront.net": "wyak-resource-cf.wenext-resource.chat",
     "wayak-system-1314119829.cos.eu-frankfurt.myqcloud.com": "wyak-resource-cf.wenext-resource.chat",
+    "wyak-user.wenext.media": "wyak-user-cf.wenext-resource.chat",
+    "wyak-cf.wenext.media": "wyak-user-cf.wenext-resource.chat",
+    "wyak.oss-accelerate.aliyuncs.com": "wyak-user-cf.wenext-resource.chat",
+    "wyak.oss-ap-southeast-1.aliyuncs.com": "wyak-user-cf.wenext-resource.chat",
+    "d2m47rrxncwxbt.cloudfront.net": "wyak-user-cf.wenext-resource.chat",
     "web.wenext.chat": "web-cf.wenext-wyak.chat"
   },
   "host": [
@@ -36,6 +41,11 @@
         "wayak-resource-h5.wenext.media": "wyak-resource-cf.wenext-resource.chat",
         "d40f5dilfw079.cloudfront.net": "wyak-resource-cf.wenext-resource.chat",
         "wayak-system-1314119829.cos.eu-frankfurt.myqcloud.com": "wyak-resource-cf.wenext-resource.chat",
+        "wyak-user.wenext.media": "wyak-user-cf.wenext-resource.chat",
+        "wyak-cf.wenext.media": "wyak-user-cf.wenext-resource.chat",
+        "wyak.oss-accelerate.aliyuncs.com": "wyak-user-cf.wenext-resource.chat",
+        "wyak.oss-ap-southeast-1.aliyuncs.com": "wyak-user-cf.wenext-resource.chat",
+        "d2m47rrxncwxbt.cloudfront.net": "wyak-user-cf.wenext-resource.chat",
         "web.wenext.chat": "web-cf.wenext-wyak.chat"
       },
       "host": [
