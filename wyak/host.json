@@ -1,7 +1,5 @@
 {
   "replace": {
-    "wyakeo.wenext.chat": "api.wenext-wyak.chat",
-    "wyakeo.wenext.technology": "wyak-cf.wenext.technology",
     "wyakback.wenext.website": "wyak-cf.wenext.chat",
     "wayak-resource.wenext.media": "wyak-resource-cf.wenext-resource.chat",
     "wayak-resource-h5.wenext.media": "wyak-resource-cf.wenext-resource.chat",
@@ -34,8 +32,6 @@
   "country": {
     "PH": {
       "replace": {
-        "wyakeo.wenext.chat": "api.wenext-wyak.chat",
-        "wyakeo.wenext.technology": "api.wenext-wyak.chat",
         "wyakback.wenext.website": "api.wenext-wyak.chat",
         "wayak-resource.wenext.media": "wyak-resource-cf.wenext-resource.chat",
         "wayak-resource-h5.wenext.media": "wyak-resource-cf.wenext-resource.chat",
