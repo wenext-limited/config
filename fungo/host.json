@@ -6,7 +6,6 @@
     "fungoback.wenext.website"
   ],
   "dns": {
-    "api.fungo.chat": "lb-6prnvtvk-j2pa7wtbdzkgfnsy.clb.de-tencentclb.cloud",
-    "fungoback.wenext.website": "lb-6prnvtvk-j2pa7wtbdzkgfnsy.clb.de-tencentclb.cloud"
+    "api.fungo.chat": "lb-6prnvtvk-j2pa7wtbdzkgfnsy.clb.de-tencentclb.cloud"
   }
 }
