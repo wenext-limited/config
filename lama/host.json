@@ -26,5 +26,28 @@
         "lama.wenext.love": "47.241.214.163",
         "lama.wenext.icu": "47.241.214.163",
         "appback.wenext.website": "47.236.187.182"
-    }
+    },
+    "user":
+    [
+        {
+            "uids":
+            [
+                1017486,
+                830307,
+                2422595,
+                1017486
+            ],
+            "replace":
+            {
+                "lamaeo.wenext.icu": "api.wenext-lama.chat",
+                "lamaeo.wenext.love": "api.wenext-lama.chat",
+                "wenext-lama.oss-ap-southeast-1.aliyuncs.com": "lama.wenext.media",
+                "wenext-lama.oss-accelerate.aliyuncs.com": "lama.wenext.media",
+                "wenext-lama.oss-accelerate-overseas.aliyuncs.com": "lama.wenext.media",
+                "lama-cf.wenext.media": "lama.wenext.media",
+                "lama-cf.wenext-resource.chat": "lama.wenext.media",
+                "web.wenext.love": "web-cf.wenext-lama.chat"
+            }
+        }
+    ]
 }
