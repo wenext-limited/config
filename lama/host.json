@@ -22,7 +22,7 @@
     ],
     "dns":
     {
-        "api.wenext-lama.chat": "47.241.214.163",
+        "api.wenext-lama.chat": "alb-50ca2cfejwigbljs01.ap-southeast-1.alb.aliyuncs.com",
         "lama.wenext.love": "47.241.214.163",
         "lama.wenext.icu": "47.241.214.163",
         "appback.wenext.website": "47.236.187.182"
