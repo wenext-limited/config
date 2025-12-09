@@ -42,7 +42,13 @@
       "uids": [
         434281
       ],
-      "doh_include_ipv6": false
+      "replace": {
+        "weparty.wenext.cloud": "weparty-cf.wenext.cloud",
+        "wyak.oss-ap-southeast-1.aliyuncs.com": "wyak-user.wenext.media",
+        "weparty-user-1314119829.cos.eu-frankfurt.myqcloud.com": "weparty-user.wenext.media",
+        "d40f5dilfw079.cloudfront.net": "wayak-resource.wenext.media",
+        "dej9gqpqi3qlh.cloudfront.net": "weparty-user.wenext.media"
+      }
     }
   ]
 }
