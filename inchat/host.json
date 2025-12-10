@@ -1,1 +1,35 @@
-{"replace":{"dcdn.wenextinchat.com":"inchat-cf.wenextinchat.com","web.wenextinchat.com":"web-cf.wenext-gameparty.chat"},"host":["api.wenext-gameparty.chat"],"backup_host":["inchat-cf.wenextinchat.com","wenextinchat.com"],"dns":{"wenextinchat.com":"43.158.121.73","inchat-cf.wenextinchat.com":"43.158.121.73","api.wenext-gameparty.chat":"43.158.121.73"}}
+{
+  "replace": {
+    "dcdn.wenextinchat.com": "inchat-cf.wenextinchat.com",
+    "web.wenextinchat.com": "web-cf.wenext-gameparty.chat",
+    "inchat-user-1314119829.cos.eu-frankfurt.myqcloud.com": "inchat-user-cf.wenext-resource.chat",
+    "d233a2cvew3gvh.cloudfront.net": "inchat-user-cf.wenext-resource.chat"
+  },
+  "host": [
+    "api.wenext-gameparty.chat"
+  ],
+  "backup_host": [
+    "inchat-cf.wenextinchat.com",
+    "wenextinchat.com"
+  ],
+  "dns": {
+    "wenextinchat.com": "43.158.121.73",
+    "inchat-cf.wenextinchat.com": "43.158.121.73",
+    "api.wenext-gameparty.chat": "43.158.121.73"
+  },
+  "user": [
+    {
+      "uids": [
+        614436
+      ],
+      "replace": {
+        "dcdn.wenextinchat.com": "inchat-cf.wenextinchat.com",
+        "web.wenextinchat.com": "web-cf.wenext-gameparty.chat",
+        "inchat-user-cf.wenext-resource.chat": "oss-ecs-user.wenext-gameparty.chat",
+        "inchat-user-1314119829.cos.eu-frankfurt.myqcloud.com": "oss-ecs-user.wenext-gameparty.chat",
+        "d233a2cvew3gvh.cloudfront.net": "oss-ecs-user.wenext-gameparty.chat",
+        "inchat-resource-cf.wenext-resource.chat": "oss-ecs-system.wenext-gameparty.chat"
+      }
+    }
+  ]
+}
