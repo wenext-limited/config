@@ -42,7 +42,8 @@
   "user": [
     {
       "uids": [
-        434281
+        434281,
+        728443
       ],
       "replace": {
         "weparty.wenext.cloud": "weparty-cf.wenext.cloud",
