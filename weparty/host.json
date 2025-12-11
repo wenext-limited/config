@@ -15,7 +15,9 @@
   "dns": {
     "weparty.wenext.cloud": "162.62.97.46",
     "wepartyback.wenext.website": "162.62.97.46",
-    "weparty-cf.wenext.cloud": "162.62.97.46"
+    "weparty-cf.wenext.cloud": "162.62.97.46",
+    "oss-ecs-system.wenext.cloud": "47.236.231.189",
+    "oss-ecs-user.wenext.cloud": "47.236.231.189"
   },
   "doh_ip_verifier_type": 2,
   "doh_check_enable": false,
@@ -45,9 +47,11 @@
       "replace": {
         "weparty.wenext.cloud": "weparty-cf.wenext.cloud",
         "wyak.oss-ap-southeast-1.aliyuncs.com": "wyak-user.wenext.media",
-        "weparty-user-1314119829.cos.eu-frankfurt.myqcloud.com": "weparty-user.wenext.media",
         "d40f5dilfw079.cloudfront.net": "wayak-resource.wenext.media",
-        "dej9gqpqi3qlh.cloudfront.net": "weparty-user.wenext.media"
+        "weparty-user-1314119829.cos.eu-frankfurt.myqcloud.com": "oss-ecs-user.wenext.cloud",
+        "dej9gqpqi3qlh.cloudfront.net": "oss-ecs-user.wenext.cloud",
+        "weparty-user-cf.wenext-resource.chat": "oss-ecs-user.wenext.cloud",
+        "weparty-resource-cf.wenext-resource.chat": "oss-ecs-system.wenext.cloud"
       }
     }
   ]
