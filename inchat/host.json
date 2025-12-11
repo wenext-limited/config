@@ -17,11 +17,8 @@
     "inchat-cf.wenextinchat.com": "43.158.121.73",
     "api.wenext-gameparty.chat": "43.158.121.73"
   },
-  "user": [
-    {
-      "uids": [
-        614436
-      ],
+  "country": {
+    "AE": {
       "replace": {
         "dcdn.wenextinchat.com": "inchat-cf.wenextinchat.com",
         "web.wenextinchat.com": "web-cf.wenext-gameparty.chat",
@@ -31,5 +28,5 @@
         "inchat-resource-cf.wenext-resource.chat": "oss-ecs-system.wenext-gameparty.chat"
       }
     }
-  ]
+  }
 }
