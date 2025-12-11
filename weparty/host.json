@@ -39,12 +39,8 @@
       "149.112.112.112"
     ]
   },
-  "user": [
-    {
-      "uids": [
-        434281,
-        728443
-      ],
+  "country": {
+    "AE": {
       "replace": {
         "weparty.wenext.cloud": "weparty-cf.wenext.cloud",
         "wyak.oss-ap-southeast-1.aliyuncs.com": "wyak-user.wenext.media",
@@ -55,5 +51,5 @@
         "weparty-resource-cf.wenext-resource.chat": "oss-ecs-system.wenext.cloud"
       }
     }
-  ]
+  }
 }
