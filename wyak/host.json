@@ -1,6 +1,7 @@
 {
   "replace": {
-    "wyakback.wenext.website": "wyak-cf.wenext.chat",
+    "wyakeo.wenext.chat": "api.wenext-wyak.chat",
+    "wyakeo.wenext.technology": "wyak-cf.wenext.technology",    
     "wayak-resource.wenext.media": "wyak-resource-cf.wenext-resource.chat",
     "wayak-resource-h5.wenext.media": "wyak-resource-cf.wenext-resource.chat",
     "d40f5dilfw079.cloudfront.net": "wyak-resource-cf.wenext-resource.chat",
@@ -16,8 +17,7 @@
     "api.wenext-wyak.chat"
   ],
   "backup_host": [
-    "wyakeo.wenext.technology",
-    "wyakeo.wenext.chat"
+    "wyakback.wenext.website"
   ],
   "dns": {
     "wayak.wenext.chat": "43.131.7.185",
@@ -32,7 +32,8 @@
   "country": {
     "PH": {
       "replace": {
-        "wyakback.wenext.website": "api.wenext-wyak.chat",
+        "wyakeo.wenext.chat": "api.wenext-wyak.chat",
+        "wyakeo.wenext.technology": "wyak-cf.wenext.technology",  
         "wayak-resource.wenext.media": "wyak-resource-cf.wenext-resource.chat",
         "wayak-resource-h5.wenext.media": "wyak-resource-cf.wenext-resource.chat",
         "d40f5dilfw079.cloudfront.net": "wyak-resource-cf.wenext-resource.chat",
@@ -59,7 +60,8 @@
         1113225
       ],
       "replace": {
-        "wyakback.wenext.website": "wyak-cf.wenext.chat",
+        "wyakeo.wenext.chat": "api.wenext-wyak.chat",
+        "wyakeo.wenext.technology": "wyak-cf.wenext.technology",  
         "wayak-resource.wenext.media": "oss-ecs-system.wenext-wyak.chat",
         "wayak-resource-h5.wenext.media": "oss-ecs-system.wenext-wyak.chat",
         "d40f5dilfw079.cloudfront.net": "oss-ecs-system.wenext-wyak.chat",
