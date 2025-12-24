@@ -1,5 +1,7 @@
 {
     "replace": {
+        "ludo.wenext.games": "ludo-cf.wenext.games",
+        "ludo.wenext.plus": "ludo-cf.wenext.plus",
         "ludo-resource.wenext.media": "ludo-resource-cf.wenext-resource.chat",
         "ludo-user.wenext.media": "ludo-user-cf.wenext-resource.chat",
         "ludo-system-1314119829.cos.eu-frankfurt.myqcloud.com": "ludo-resource-cf.wenext.media",
@@ -11,13 +13,15 @@
         "api.wenext-ludo.chat"
     ],
     "backup_host": [
-        "ludo.wenext.games",
-        "ludo.wenext.plus"
+        "ludo-cf.wenext.games",
+        "ludo-cf.wenext.plus",
+        "ludoback.wenext.website"
     ],
     "dns": {
         "api.wenext-ludo.chat": "lb-p7xw30aq-a5jifyxprmnvbo76.clb.de-tencentclb.cloud",
         "ludo-cf.wenext.games": "lb-p7xw30aq-a5jifyxprmnvbo76.clb.de-tencentclb.cloud",
-        "ludo-cf.wenext.plus": "lb-p7xw30aq-a5jifyxprmnvbo76.clb.de-tencentclb.cloud"
+        "ludo-cf.wenext.plus": "lb-p7xw30aq-a5jifyxprmnvbo76.clb.de-tencentclb.cloud",
+        "ludoback.wenext.website": "lb-p7xw30aq-a5jifyxprmnvbo76.clb.de-tencentclb.cloud"
     },
     "user": [
         {
@@ -30,6 +34,8 @@
                 100473264
             ],
             "replace": {
+                "ludo.wenext.games": "ludo-cf.wenext.games",
+                "ludo.wenext.plus": "ludo-cf.wenext.plus",
                 "lamaludo-cf.wenext.media": "lamaludo-user.wenext.media",
                 "ludo-resource.wenext.media": "ludo-resource-cf.wenext-resource.chat",
                 "ludo-user.wenext.media": "ludo-user-cf.wenext-resource.chat",
@@ -46,6 +52,8 @@
                 100001010
             ],
             "replace": {
+                "ludo.wenext.games": "ludo-cf.wenext.games",
+                "ludo.wenext.plus": "ludo-cf.wenext.plus",
                 "lamaludo-cf.wenext.media": "lamaludo-user.wenext.media",
                 "ludo-resource.wenext.media": "oss-ecs-system.wenext-ludo.chat",
                 "ludo-resource-cf.wenext-resource.chat": "oss-ecs-system.wenext-ludo.chat",

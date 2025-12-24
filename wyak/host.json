@@ -17,6 +17,7 @@
     "api.wenext-wyak.chat"
   ],
   "backup_host": [
+    "wyak-cf.wenext.technology",
     "wyakback.wenext.website"
   ],
   "dns": {
