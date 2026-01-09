@@ -32,8 +32,7 @@
                 110152453,
                 105173923,
                 100473264,
-                106904306,
-                108983989
+                106904306
             ],
             "replace": {
                 "ludo.wenext.games": "ludo-cf.wenext.games",
@@ -51,7 +50,8 @@
             "uids": [
                 100192314,
                 106547473,
-                100001010
+                100001010,
+                108983989
             ],
             "replace": {
                 "ludo.wenext.games": "ludo-cf.wenext.games",
