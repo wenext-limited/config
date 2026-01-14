@@ -7,5 +7,15 @@
   ],
   "dns": {
     "api.fungo.chat": "lb-6prnvtvk-j2pa7wtbdzkgfnsy.clb.de-tencentclb.cloud"
-  }
+  },
+  "user": [
+    {
+      "uids": [
+        100452946
+      ],
+      "replace": {
+        "web.fungo.chat": "web.wenext-fungo.chat"
+      }
+    }
+  ]
 }
