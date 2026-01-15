@@ -74,6 +74,25 @@
         "d2m47rrxncwxbt.cloudfront.net": "oss-ecs-user.wenext-wyak.chat",
         "web.wenext.chat": "web-cf.wenext-wyak.chat"
       }
+    },
+    {
+      "uids": [
+        1591951
+      ],
+      "replace": {
+        "wyakeo.wenext.chat": "api.wenext-wyak.chat",
+        "wyakeo.wenext.technology": "wyak-cf.wenext.technology",    
+        "wayak-resource.wenext.media": "wyak-resource-cf.wenext-resource.chat",
+        "wayak-resource-h5.wenext.media": "wyak-resource-cf.wenext-resource.chat",
+        "d40f5dilfw079.cloudfront.net": "wyak-resource-cf.wenext-resource.chat",
+        "wayak-system-1314119829.cos.eu-frankfurt.myqcloud.com": "wyak-resource-cf.wenext-resource.chat",
+        "wyak-user.wenext.media": "wyak-user-cf.wenext-resource.chat",
+        "wyak-cf.wenext.media": "wyak-user-cf.wenext-resource.chat",
+        "wyak.oss-accelerate.aliyuncs.com": "wyak-user-cf.wenext-resource.chat",
+        "wyak.oss-ap-southeast-1.aliyuncs.com": "wyak-user-cf.wenext-resource.chat",
+        "d2m47rrxncwxbt.cloudfront.net": "wyak-user-cf.wenext-resource.chat",
+        "web-cf.wenext-wyak.chat": "web.wenext.chat"
+      }
     }
   ]
 }
