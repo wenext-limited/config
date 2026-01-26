@@ -1,4 +1,7 @@
 {
+  "replace": {
+    "fungo-user-1314119829.cos.eu-frankfurt.myqcloud.com": "fungo-user.wenext.media"
+  },
   "host": [
     "api.fungo.chat"
   ],
@@ -32,7 +35,8 @@
         100551398
       ],
       "replace": {
-        "web.fungo.chat": "web.wenext-fungo.chat"
+        "web.fungo.chat": "web.wenext-fungo.chat",
+         "fungo-user-1314119829.cos.eu-frankfurt.myqcloud.com": "fungo-user.wenext.media"
       }
     }
   ]
