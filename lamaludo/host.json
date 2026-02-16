@@ -67,6 +67,23 @@
                 "lamaludo.oss-accelerate.aliyuncs.com": "oss-ecs-user-ali.wenext-ludo.chat",
                 "lamaludo-cf.wenext-resource.chat": "oss-ecs-user-ali.wenext-ludo.chat"
             }
+        },
+        {
+            "uids": [
+                106131392,
+                108035300,
+                108790650,
+                109365820
+            ],
+            "replace": {
+                "ludo.wenext.games": "ludo-cf.wenext.games",
+                "ludo.wenext.plus": "ludo-cf.wenext.plus",
+                "ludo-resource.wenext.media": "ludo-resource-cf.wenext-resource.chat",
+                "ludo-user.wenext.media": "ludo-user-cf.wenext-resource.chat",
+                "ludo-system-1314119829.cos.eu-frankfurt.myqcloud.com": "ludo-resource-cf.wenext.media",
+                "lamaludo.oss-ap-southeast-1.aliyuncs.com": "lamaludo-cf.wenext-resource.chat",
+                "lamaludo.oss-accelerate.aliyuncs.com": "lamaludo-cf.wenext-resource.chat"
+            }
         }
     ]
 }
