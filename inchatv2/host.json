@@ -28,6 +28,20 @@
       ]
     },
     {
+      "group_name": "wenext-activity",
+      "desc": "新活动平台",
+      "nodes": [
+        {
+          "host": "api-fra.wenext-activity.chat",
+          "weight": 10
+        },
+        {
+          "host": "api-fra.wenext-activity.top",
+          "weight": 1
+        }
+      ]
+    },
+    {
       "group_name": "user-cdn-cos",
       "nodes": [
         {
@@ -72,7 +86,6 @@
           "host": "inchat-system-1314119829.cos.eu-frankfurt.myqcloud.com",
           "weight": 1
         }
-        
       ],
       "desc": "腾讯云 系统资源 CDN"
     }

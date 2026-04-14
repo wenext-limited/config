@@ -25,8 +25,13 @@
           "host": "api-fra.wenext-activity.chat",
           "weight": 10,
           "desc": "腾讯云 新活动平台api域名"
+        },
+        {
+          "host": "api-fra.wenext-activity.top",
+          "weight": 1
         }
-      ]
+      ],
+      "desc": "新活动平台"
     },
     {
       "group_name": "user-cdn-cos",
