@@ -7,11 +7,6 @@
           "host": "api.hayi.chat",
           "weight": 10,
           "desc": "主api域名"
-        },
-        {
-          "host": "hayiback.wenext.website",
-          "weight": 5,
-          "desc": "备用api域名"
         }
       ]
     },
@@ -55,5 +50,8 @@
         }
       ]
     }
-  ]
+  ],
+  "dns": {
+    "api.hayi.chat": "lb-mdjm00ki-bp3tf7lvau98skex.clb.de-tencentclb.cloud"
+  }
 }
