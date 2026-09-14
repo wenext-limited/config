@@ -52,6 +52,10 @@
         {
           "host": "hayi-system-1371118896.cos.eu-frankfurt.myqcloud.com",
           "weight": 1
+        },
+        {
+          "host": "hayi-resource.wenext.media",
+          "weight": 1
         }
       ]
     }
@@ -59,5 +63,12 @@
   "dns": {
     "api.hayi.chat": "lb-mdjm00ki-bp3tf7lvau98skex.clb.de-tencentclb.cloud",
     "hayiback.wenext.website": "lb-mdjm00ki-bp3tf7lvau98skex.clb.de-tencentclb.cloud"
+  },
+  "country": {
+    "AE": {
+      "replace": {
+        "web.hayi.chat": "web.wenext-hayi.chat"
+      }
+    }
   }
 }
