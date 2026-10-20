@@ -1,19 +1,6 @@
 {
   "replace": {
-    "web.wenext.games": "web-cf.wenext-ludo.chat",
-    "okey101-turkey.wenext-ludo.chat": "ludo-okey101-turkey.cfwenext202410.workers.dev",
-    "arrow-duel.wenext-ludo.chat": "ludo-arrow-duel.cfwenext202410.workers.dev",
-    "pose-director.wenext-ludo.chat": " ludo-pose-director.cfwenext202410.workers.dev",
-    "mahjong-match.wenext-ludo.chat": "ludo-mahjong-match.cfwenext202410.workers.dev",
-    "junk-artist.wenext-ludo.chat": "ludo-junk-artist.cfwenext202410.workers.dev",
-    "super-trivia.wenext-ludo.chat": "ludo-super-trivia.cfwenext202410.workers.dev",
-    "candy-crush.wenext-ludo.chat": "ludo-candy-crush.cfwenext202410.workers.dev",
-    "draw-guess.wenext-ludo.chat": "ludo-draw-guess.cfwenext202410.workers.dev",
-    "carrom-survival.wenext-ludo.chat": "ludo-carrom-survival.cfwenext202410.workers.dev",
-    "bubble-shooter-multiplayer.wenext-ludo.chat": " ludo-bubble-shooter-multiplayer.cfwenext202410.workers.dev",
-    "billiards-server.wenext-ludo.chat": " ludo-billiards-server.cfwenext202410.workers.dev",
-    "ball-battle.wenext-ludo.chat": " ludo-ball-battle.cfwenext202410.workers.dev",
-    "snake-ladder.wenext-ludo.chat": "ludo-snake-ladder.cfwenext202410.workers.dev"
+    "web.wenext.games": "web-cf.wenext-ludo.chat"
   },
   "hosts": [
     {
