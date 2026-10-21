@@ -10,14 +10,14 @@
       "group_name": "user-upload-cos",
       "nodes": [
         {
-          "host": "weparty-user-1314119829.cos.accelerate.myqcloud.com",
+          "host": "weparty-user-1314119829.cos.eu-frankfurt.myqcloud.com",
           "weight": 10,
-          "desc": "加速域名"
+          "desc": "源站域名"
         },
         {
-          "host": "weparty-user-1314119829.cos.eu-frankfurt.myqcloud.com",
+          "host": "weparty-user-1314119829.cos.accelerate.myqcloud.com",
           "weight": 1,
-          "desc": "源站域名"
+          "desc": "兜底域名"
         }
       ]
     }
