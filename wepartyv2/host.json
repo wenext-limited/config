@@ -1,7 +1,27 @@
 {
+  "next_config_urls": [
+    "https://cdn.jsdelivr.net/gh/wenext-limited/config@main/wepartyv2/host.json"
+  ],
   "replace": {
     "weparty.wenext.cloud": "weparty-cf.wenext.cloud"
   },
+  "upload_hosts": [
+    {
+      "group_name": "user-upload-cos",
+      "nodes": [
+        {
+          "host": "weparty-user-1314119829.cos.accelerate.myqcloud.com",
+          "weight": 10,
+          "desc": "加速域名"
+        },
+        {
+          "host": "weparty-user-1314119829.cos.eu-frankfurt.myqcloud.com",
+          "weight": 1,
+          "desc": "源站域名"
+        }
+      ]
+    }
+  ],
   "hosts": [
     {
       "group_name": "main",
@@ -20,6 +40,7 @@
     },
     {
       "group_name": "wenext-activity",
+      "desc": "新活动平台",
       "nodes": [
         {
           "host": "api-fra.wenext-activity.chat",
@@ -30,8 +51,7 @@
           "host": "api-fra.wenext-activity.top",
           "weight": 1
         }
-      ],
-      "desc": "新活动平台"
+      ]
     },
     {
       "group_name": "user-cdn-cos",
@@ -129,8 +149,6 @@
     "oss-ecs-system.wenext.cloud": "47.236.231.189",
     "oss-ecs-user.wenext.cloud": "47.236.231.189"
   },
-  "doh_ip_verifier_type": 2,
-  "doh_check_enable": false,
   "doh_bootstrap_ips": {
     "cloudflare-dns.com": [
       "1.1.1.1",
@@ -149,16 +167,13 @@
       "149.112.112.112"
     ]
   },
+  "doh_check_enable": false,
   "user": [
     {
       "uids": [
         682424
       ],
-      "doh_min_version": 9999,
-      "doh_bootstrap_ips": {}
+      "doh_min_version": 9999
     }
-  ],
-  "next_config_urls": [
-    "https://cdn.jsdelivr.net/gh/wenext-limited/config@main/wepartyv2/host.json"
   ]
 }
