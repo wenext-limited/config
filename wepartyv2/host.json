@@ -78,6 +78,11 @@
           "desc": "lb + nginx反代oss 域名"
         },
         {
+          "host": "weparty-user-1314119829.cos.accelerate.myqcloud.com",
+          "weight": 2,
+          "desc": "腾讯云 COS 全球加速域名"
+        },
+        {
           "host": "weparty-user-1314119829.cos.eu-frankfurt.myqcloud.com",
           "weight": 1,
           "desc": "腾讯云对象存储域名"
