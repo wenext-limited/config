@@ -2,6 +2,23 @@
   "replace": {
     "web.wenext.games": "web-cf.wenext-ludo.chat"
   },
+  "upload_hosts": [
+    {
+      "group_name": "user-upload-ali",
+      "nodes": [
+        {
+          "host": "lamaludo.oss-accelerate.aliyuncs.com",
+          "weight": 10,
+          "desc": "源站域名"
+        },
+        {
+          "host": "lamaludo.oss-ap-southeast-1.aliyuncs.com",
+          "weight": 1,
+          "desc": "兜底域名"
+        }
+      ]
+    }
+  ],
   "hosts": [
     {
       "group_name": "main",
