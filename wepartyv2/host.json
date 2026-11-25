@@ -145,6 +145,15 @@
           "desc": "阿里云对象存储域名"
         }
       ]
+    },
+    {
+      "group_name": "web",
+      "nodes": [
+        {
+          "host": "weparty.wenext.cloud",
+          "weight": 10
+        }
+      ]
     }
   ],
   "dns": {
