@@ -43,6 +43,7 @@
     },
     {
       "group_name": "user-cdn-cos",
+      "desc": "腾讯云 用户资源 CDN",
       "nodes": [
         {
           "host": "inchat-user-cf.wenext-resource.chat",
@@ -60,11 +61,11 @@
           "host": "inchat-user-1314119829.cos.eu-frankfurt.myqcloud.com",
           "weight": 1
         }
-      ],
-      "desc": "腾讯云 用户资源 CDN"
+      ]
     },
     {
       "group_name": "system-cdn-cos",
+      "desc": "腾讯云 系统资源 CDN",
       "nodes": [
         {
           "host": "inchat-resource-cf.wenext-resource.chat",
@@ -86,8 +87,20 @@
           "host": "inchat-system-1314119829.cos.eu-frankfurt.myqcloud.com",
           "weight": 1
         }
-      ],
-      "desc": "腾讯云 系统资源 CDN"
+      ]
+    },
+    {
+      "group_name": "web",
+      "nodes": [
+        {
+          "host": "web-cf.wenext-gameparty.chat",
+          "weight": 10
+        },
+        {
+          "host": "web.wenextinchat.com",
+          "weight": 1
+        }
+      ]
     }
   ],
   "dns": {
